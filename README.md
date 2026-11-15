@@ -2,4 +2,7 @@
 
 <div align="center">
   <p>𝘚𝘰𝘮𝘦𝘰𝘯𝘦 𝘵𝘰 𝘱𝘢𝘵 𝘮𝘺 𝘴𝘩𝘰𝘶𝘭𝘥𝘦𝘳 𝘢𝘯𝘥 𝘴𝘢𝘺 '𝘺𝘰𝘶 𝘥𝘪𝘥 𝘸𝘦𝘭𝘭'.</p>
+  
+  ![꩜](https://komarev.com/ghpvc/?username=TALLYNEO)
+
 </div>
